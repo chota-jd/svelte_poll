@@ -1,5 +1,5 @@
 <footer>
-  <div class="copyright">Copyright 2024</div>
+  <div class="copyright">Chirag Prajapati @Copyright 2024</div>
 </footer>
 
 <style>
